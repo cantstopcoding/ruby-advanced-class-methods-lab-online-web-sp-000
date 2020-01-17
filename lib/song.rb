@@ -68,6 +68,10 @@ class Song
   
   def self.destroy_all
     self.all.clear
+<<<<<<< HEAD
+=======
+    binding.pry
+>>>>>>> ab1fb90701fd2d6d9acb10b8649566a70f3d25f9
   end 
 end
 
